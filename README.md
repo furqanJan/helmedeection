@@ -1,4 +1,4 @@
-﻿# Hard Hat Worker Detection with YOLOv8
+# Hard Hat Worker Detection with YOLOv8
 
 ## Description
 
